@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-���� ���� Ȯ��
+톰켓 연결 확인
+
+볁경했습니다  <!--  20170705 9: 50 원현진 -->
 </body>
 </html>
